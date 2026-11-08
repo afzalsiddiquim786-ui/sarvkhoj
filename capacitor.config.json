@@ -1,0 +1,7 @@
+{
+  "appId": "in.sarvkhoj.app",
+  "appName": "SarvKhoj",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false, "backgroundColor": "#10233f" }
+}
